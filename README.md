@@ -34,5 +34,5 @@ Soy desarrollador de software con enfoque en fullstack, apasionado por construir
 ## 📬 ¿Trabajamos juntos?
 Estoy disponible para proyectos freelance.  
 📧 ivanrdlt47@gmail.com  
-💼 [LinkedIn](www.linkedin.com/in/ivan-ramos-de-la-torre-132b70314)
+💼 [LinkedIn](https://www.linkedin.com/in/ivan-ramos-de-la-torre-132b70314)
 
