@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Iván Ramos
 
-<!--
-**FishyOfixial/FishyOfixial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software con enfoque en fullstack, apasionado por construir soluciones útiles, funcionales y bien estructuradas. Me especializo en Django, React Native y desarrollo web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+
+### 🦷 DentAngel
+**Tipo:** Landing page profesional  
+**Tecnologías:** WordPress  
+**Descripción:** Sitio web para un consultorio dental, diseñado con una interfaz clara, moderna y funcional.  
+🌐 [Ver sitio](https://consultoriodentangel.com/)
+
+---
+
+### 🤝 Walking Buddy
+**Tipo:** App móvil  
+**Tecnologías:** React Native  
+**Descripción:** Aplicación universitaria para conectar estudiantes con intereses similares y encontrar compañía dentro del campus.  
+📂 [Ver en GitHub](https://github.com/FishyOfixial/WalkingBuddies)
+
+---
+
+### 🛠 Panel de administración de SIMs / 1iox
+**Tipo:** Plataforma web  
+**Tecnologías:** Django  
+**Descripción:** App web con backend robusto en Django, lógica personalizada, panel de administración, manejo de usuarios y despliegue en producción.  
+📂 [Código en GitHub](https://github.com/FishyOfixial/1iox)  
+🌐 [Ver online](https://panel.1iox.com)
+
+---
+
+## 📬 ¿Trabajamos juntos?
+Estoy disponible para proyectos freelance.  
+📧 ivanramos@email.com  
+💼 [LinkedIn](www.linkedin.com/in/ivan-ramos-de-la-torre-132b70314)
+
