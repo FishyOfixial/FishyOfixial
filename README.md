@@ -31,6 +31,14 @@ Soy desarrollador de software con enfoque en fullstack, apasionado por construir
 
 ---
 
+### 🌐 NetVision Studio
+**Tipo:** Plataforma web profesional
+**Tecnologías:** Django, Sockets/Networking
+**Descripción:** Sistema para administración de redes y monitoreo de dispositivos. Incluye listener de syslog, actualización en tiempo real del estado de los puertos, manejo de VLANs y dashboard dinámico para visualizar actividad de la red.
+📂 [Código en GitHub](https://github.com/FishyOfixial/NetVision-Studio)  
+
+---
+
 ## 📬 ¿Trabajamos juntos?
 Estoy disponible para proyectos freelance.  
 📧 ivanrdlt47@gmail.com  
