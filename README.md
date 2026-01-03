@@ -10,7 +10,6 @@ Soy desarrollador de software con enfoque en fullstack, apasionado por construir
 **Tipo:** Landing page profesional  
 **Tecnologías:** WordPress  
 **Descripción:** Sitio web para un consultorio dental, diseñado con una interfaz clara, moderna y funcional.  
-🌐 [Ver sitio](https://consultoriodentangel.com/)
 
 ---
 
