@@ -34,7 +34,7 @@ Soy desarrollador de software con enfoque en fullstack, apasionado por construir
 **Tipo:** Plataforma web  
 **Tecnologías:** Django, Sockets/Networking  
 **Descripción:** Sistema para administración de redes y monitoreo de dispositivos. Incluye listener de syslog, actualización en tiempo real del estado de los puertos, manejo de VLANs y dashboard dinámico para visualizar actividad de la red.  
-📂 [Código en GitHub](https://github.com/FishyOfixial/NetVisioon-Studio)  
+📂 [Código en GitHub](https://github.com/FishyOfixial/NetVision-Studio)  
 
 ---
 
