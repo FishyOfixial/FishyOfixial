@@ -91,6 +91,12 @@ Data Modeling           Schema design, relational integrity, domain-driven model
 
 ---
 
+## 📄 Resume
+
+- 🇺🇸 [Download CV (English)](./cv/Ivan_Ramos_Backend_Developer_CV_EN.pdf)
+- 🇲🇽 [Descargar CV (Español)](./cv/Ivan_Ramos_Backend_Developer_CV_ES.pdf)
+
+
 ## Get in Touch
 
 Open to freelance projects and technical collaborations.
