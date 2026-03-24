@@ -1,45 +1,65 @@
-# 👋 ¡Hola! Soy Iván Ramos
+# Iván Ramos · Full Stack Developer
 
-Soy desarrollador de software con enfoque en fullstack, apasionado por construir soluciones útiles, funcionales y bien estructuradas. Me especializo en Django, React Native y desarrollo web.
+> Building reliable, well-structured software — from REST APIs to real-time dashboards.
 
----
-
-## 🚀 Proyectos destacados
-
-### 🦷 DentAngel
-**Tipo:** Landing page profesional  
-**Tecnologías:** WordPress  
-**Descripción:** Sitio web para un consultorio dental, diseñado con una interfaz clara, moderna y funcional.  
+I'm a software developer focused on fullstack web development. My core expertise is in **Django** and **Python**, with growing experience in **React + Tailwind CSS** on the frontend and **Django REST Framework** for API design.
 
 ---
 
-### 🤝 Walking Buddy
-**Tipo:** App móvil  
-**Tecnologías:** React Native  
-**Descripción:** Aplicación universitaria para conectar estudiantes con intereses similares y encontrar compañía dentro del campus.  
-📂 [Ver en GitHub](https://github.com/FishyOfixial/WalkingBuddies)
+## Tech Stack
+
+| Layer | Technologies |
+|---|---|
+| **Backend** | Python · Django · Django REST Framework · SQLite |
+| **Frontend** | React *(learning)* · Tailwind CSS *(learning)* · HTML · CSS · JS |
+| **Tools** | Git · Linux · Production deployment |
 
 ---
 
-### 🛠 Panel de administración de SIMs / 1iox
-**Tipo:** Plataforma web  
-**Tecnologías:** Django  
-**Descripción:** App web con backend robusto en Django, lógica personalizada, panel de administración, manejo de usuarios y despliegue en producción.  
-📂 [Código en GitHub](https://github.com/FishyOfixial/1iox)  
-🌐 [Ver online](https://panel.1iox.com)
+## Projects
+
+### Saltix — University Payroll System
+`Python` `Django` `SQLite`
+
+A full-featured web platform for university attendance control and teacher payroll calculation. Built with a modular architecture covering campuses, user roles & permissions, schedules, incidents, pay periods, payroll receipts, and role-based dashboards (admin and department head).
+
+The project includes thorough documentation: requirements backlog (24 FR / 6 NFR), risk matrix, ER diagram, component diagrams, wireframes, and test cases.
+
+[→ View on GitHub](https://github.com/JuanMarcoGosselin/Saltix)
 
 ---
 
-### NetVision Studio
-**Tipo:** Plataforma web  
-**Tecnologías:** Django, Sockets/Networking  
-**Descripción:** Sistema para administración de redes y monitoreo de dispositivos. Incluye listener de syslog, actualización en tiempo real del estado de los puertos, manejo de VLANs y dashboard dinámico para visualizar actividad de la red.  
-📂 [Código en GitHub](https://github.com/FishyOfixial/NetVision-Studio)  
+### 1iox — SIM Management Panel
+`Django` `Production`
+
+Web platform with a robust Django backend featuring custom business logic, user management, an admin panel, and a live production deployment.
+
+[→ Code on GitHub](https://github.com/FishyOfixial/1iox)
 
 ---
 
-## 📬 ¿Trabajamos juntos?
-Estoy disponible para proyectos freelance.  
+### NetVision Studio — Network Monitoring Platform
+`Django` `Sockets` `Networking`
+
+System for network administration and device monitoring. Features a syslog listener, real-time port status updates, VLAN management, and a dynamic dashboard to visualize network activity.
+
+[→ Code on GitHub](https://github.com/FishyOfixial/NetVision-Studio)
+
+---
+
+## Currently Learning
+
+```
+React          ████████░░  Hooks, state management, component architecture
+Tailwind CSS   ███████░░░  Utility-first design, responsive layouts
+Django REST    ██████████  API design, serializers, authentication
+```
+
+---
+
+## Get in Touch
+
+I'm open to freelance projects and collaborations.
+
 📧 ivanrdlt47@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/ivan-ramos-de-la-torre-132b70314)
-
+💼 [linkedin.com/in/ivan-ramos-de-la-torre](https://www.linkedin.com/in/ivan-ramos-de-la-torre-132b70314)
