@@ -39,6 +39,21 @@ I gravitate toward problems that require thinking beyond CRUD: permission hierar
 
 ## Projects
 
+### [Alternative Time — Watch Business Platform](https://github.com/FishyOfixial/AlternativeTime)
+`Django` `Python` `Business Logic` `Finance`
+
+A backend-driven system for managing watch sales, inventory, layaways, and financial tracking — designed around real business operations.
+
+- Automatic financial sync: sales, purchases, and layaway payments generate income/expense records
+- Inventory lifecycle management tied to business transactions
+- Layaway system with partial payments and financial traceability
+- Clear separation between commercial logic and financial accounting layer
+- Designed to avoid inconsistencies between inventory and finance through service-layer orchestration
+
+[→ GitHub](https://github.com/FishyOfixial/AlternativeTime)
+
+---
+
 ### [Saltix — University Payroll System](https://github.com/JuanMarcoGosselin/Saltix)
 `Python` `Django` `SQLite`
 
@@ -87,6 +102,7 @@ Backend Architecture    Django apps, service layer, clean separation of concerns
 REST API Design         DRF serializers, versioning, auth, and endpoint structure
 Permissions & Roles     Custom permission systems, multi-role access control
 Data Modeling           Schema design, relational integrity, domain-driven models
+Business Logic Systems  Financial sync, transactional integrity, domain services
 ```
 
 ---
@@ -96,6 +112,7 @@ Data Modeling           Schema design, relational integrity, domain-driven model
 - 🇺🇸 [Download CV (English)](./cv/Ivan_Ramos_Backend_Developer_CV_EN.pdf)
 - 🇲🇽 [Descargar CV (Español)](./cv/Ivan_Ramos_Backend_Developer_CV_ES.pdf)
 
+---
 
 ## Get in Touch
 
