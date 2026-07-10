@@ -101,6 +101,7 @@ A backend-driven system for managing watch sales, inventory, layaways, and finan
 - Designed to avoid inconsistencies between inventory and finance through service-layer orchestration
 
 [→ GitHub](https://github.com/FishyOfixial/AlternativeTime)
+
 [→ Website](https://alternative-time-web.onrender.com/)
 
 ---
@@ -157,8 +158,7 @@ AI-Assisted Development  ChatGPT, OpenAI Codex, developer productivity
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FishyOfixial&layout=compact&theme=transparent)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FishyOfixial&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=FishyOfixial&show_icons=true&theme=transparent)
 
 ![](https://komarev.com/ghpvc/?username=FishyOfixial&style=for-the-badge)
 
