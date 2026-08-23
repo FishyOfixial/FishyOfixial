@@ -76,7 +76,7 @@ Currently, I'm a Software Development Intern at InovenTI while pursuing a Bachel
 
 ## Projects
 
-### [1iox — SIM Management Panel](https://github.com/FishyOfixial/1iox)
+### 1iox — SIM Management Panel
 `Django • Python • PostgreSQL • Production`
 
 An internal operations platform for managing SIM card inventory and subscriptions — built for and running in production.
@@ -85,11 +85,9 @@ An internal operations platform for managing SIM card inventory and subscription
 - Business logic for subscription states, SIM lifecycle, and access policies
 - Deployed and actively used, not a portfolio demo
 
-[→ GitHub](https://github.com/FishyOfixial/1iox)
-
 ---
 
-### [Alternative Time — Watch Business Platform](https://github.com/FishyOfixial/AlternativeTime)
+### Alternative Time — Watch Business Platform
 `Django • Python • PostgreSQL • Business Logic`
 
 A backend-driven system for managing watch sales, inventory, layaways, and financial tracking — designed around real business operations.
@@ -100,9 +98,8 @@ A backend-driven system for managing watch sales, inventory, layaways, and finan
 - Clear separation between commercial logic and financial accounting layer
 - Designed to avoid inconsistencies between inventory and finance through service-layer orchestration
 
-[→ GitHub](https://github.com/FishyOfixial/AlternativeTime)
 
-[→ Website](https://alternative-time-web.onrender.com/)
+[→ Website](https://www.alternativetimeco.com/)
 
 ---
 
