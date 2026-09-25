@@ -103,6 +103,21 @@ A backend-driven system for managing watch sales, inventory, layaways, and finan
 
 ---
 
+### Barravento — Catering Catalog and Quotation Platform
+`React • Vite • CSS Modules • WhatsApp Integration`
+
+A responsive platform where customers can browse catering services, build a request, and send a detailed quotation through WhatsApp.
+
+- Service catalog organized by category, with images and descriptions
+- Cart supporting multiple services and their required quantities
+- Validation of minimum order sizes, event date, time, and location
+- WhatsApp message generated from the customer's completed request
+- Admin interface for managing services and previewing catalog changes
+
+[→ Website](https://www.barraventogdl.com/)
+
+---
+
 ### [Saltix — University Payroll System](https://github.com/JuanMarcoGosselin/Saltix)
 `Python` `Django` `SQLite`
 
@@ -180,6 +195,6 @@ AI-Assisted Development  ChatGPT, OpenAI Codex, developer productivity
 
 ## Get in Touch
 
-📧 Email: **ivanrdlt47@gmail.com**
+📧 Email: **ivanrdlt.dev@gmail.com**
 
 💼 LinkedIn: https://linkedin.com/in/ivan-ramos-de-la-torre-132b70314
